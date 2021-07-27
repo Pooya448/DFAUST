@@ -1,4 +1,3 @@
-cp c.txt ..
 cd ..
 
 urle () { [[ "${1}" ]] || return 1; local LANG=C i x; for (( i = 0; i < ${#1}; i++ )); do x="${1:i:1}"; [[ "${x}" == [a-zA-Z0-9.~-] ]] && echo -n "${x}" || printf '%%%02X' "'${x}"; done; echo; }
@@ -46,5 +45,5 @@ tar -xvf 50026.tar.xz
 tar -xvf 50027.tar.xz
 
 # Removing temps
-rm -rf *.zip
-rm -rf *.tar.xz
+# rm -rf *.zip
+# rm -rf *.tar.xz

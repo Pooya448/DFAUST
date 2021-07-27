@@ -1,6 +1,0 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-faust.is.tue.mpg.de	FALSE	/	FALSE	0	_faust_session	BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTQ3NmIyZjMyZDNkYTRkOTVlMjM5NjgzYjEzYTY4YTA5BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUdvMnFBOG9QeVEzZ2N0WXlOdXlNem5lRXlBeDhUUURodzVPNzFnVHVic1U9BjsARg%3D%3D--c0b09a8ab62c9ebdeeadf025903e223a573b4f30
-dfaust.is.tue.mpg.de	FALSE	/	FALSE	0	PHPSESSID	cmb9pfvnj12hofn4q8hpkldr9e
